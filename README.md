@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>나의 블로그</title>
 </head>
 <body>
   <header>
