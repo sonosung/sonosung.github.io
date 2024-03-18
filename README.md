@@ -10,10 +10,30 @@
   
   <nav>
     <ul>
-      <li><a href="/">홈</a></li>
-      <li><a href="/about">소개</a></li>
-      <li><a href="/blog">블로그</a></li>
-      <li><a href="/contact">문의</a></li>
+      <li>
+          <a href="/">
+            홈
+          </a>
+      </li>
+      
+      <li>
+          <a href="/about">
+            소개  
+          </a>
+      </li>
+      
+      <li>
+          <a href="/blog">
+            블로그
+          </a>
+      </li>
+      
+      <li>
+          <a href="/contact"> 
+            문의
+          </a>
+      </li>
+      
     </ul>
   </nav>
   
